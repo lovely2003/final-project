@@ -89,7 +89,7 @@ a {
 }
 
 .container-nav-banner {
-    background-image: url("../Image/Banner\ img.jpg");
+    background-image: url("Image/Banner\ img.jpg");
 }
 
 .logo {
@@ -309,7 +309,7 @@ a {
 /* =================================== */
 
 .container-Our-Vision {
-    background-image: url("/Image/our\ vision.png");
+    background-image: url("Image/our\ vision.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 200px;
